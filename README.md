@@ -5,6 +5,8 @@ Implement the Deep Q-learning algorithm by Pytorch Networks, training progress r
 
 Pretrained Model is included and trained for about 1M more frames to get winning. Trained model.pth: https://drive.google.com/file/d/1-EForlTcwWX3Rn1gpU1AVrZx035BV5KS/view?usp=sharing
 
+Running the script would required using GPU(by Google Colab in my attempt), please ask for more information if needed.
+
 Result:\
 ![Alt text](pongresult.png)
 
