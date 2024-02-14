@@ -5,5 +5,8 @@ Implement the Deep Q-learning algorithm by Pytorch Networks, training progress r
 
 Pretrained Model is included and trained for about 1M more frames to get winning. Trained model.pth: https://drive.google.com/file/d/1-EForlTcwWX3Rn1gpU1AVrZx035BV5KS/view?usp=sharing
 
-Result:
+Result:\
+![Alt text](pongresult.png)
 
+File Included:\
+model_pretrained.pth, DQN_pong.ipynb
